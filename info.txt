@@ -1,1 +1,3 @@
-edited info
+edited info 2.0
+some text
+git branches: main, one
