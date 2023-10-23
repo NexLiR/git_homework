@@ -49,3 +49,4 @@
 Документація з використання Git розміщена за [посиланням](https://learn.ztu.edu.ua/mod/url/view.php?id=186960).
 
 Виконав: ***Шевчук Владислав***
+Email: vsevcuk111@gmail.com
